@@ -17,11 +17,11 @@
 - 💰 **Financial & Pension Economics (연계전공)**  
 
 ### 🎯 Interests
-- 🤖 **Machine Learning Performance Optimization**  
+- 🤖 ***Machine Learning Performance Optimization***   
   : Feature Engineering, Data Preprocessing, Model Ensemble  
-- 📈 **Statistical Modeling**  
+- 📈 ***Statistical Modeling***   
   : Bias–Variance Tradeoff, Robust Modeling  
-- 💰 **Finance & Pension Economics**   
+- 💰 ***Finance & Pension Economics***     
   : 금융 데이터 기반 예측과 리스크 분석
 
 --------------------------------------
