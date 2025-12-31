@@ -1,8 +1,9 @@
 <!--## Hi I'm Subeen 👋-->
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=360&text=Hello+subeen%27s+Home%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+2026+Day&descSize=20&descAlign=50&descAlignY=60)
-### 🙇 안녕하세요, 금융 데이터 분석가로 성장해나가고 있는 김수빈입니다!
+### 🙇 안녕하세요, 금융 데이터 분석가를 꿈꾸는 김수빈입니다!
 
+-----------------------------
 ### 🦾 Skills  
 **🧑‍💻 Lang and Frameworks**  
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white) ![sklearn](https://img.shields.io/badge/Sklearn-000000.svg?&style=for-the-badge) 
@@ -49,7 +50,6 @@
 - 📊 코테 문제 풀이 (Baekjoon)  
 - 🍚 서울 맛집 투어
 - ✈️ 국내·외 다른 지역 7곳 이상 여행
-
 
 <!--
 **subin912/subin912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
