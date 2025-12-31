@@ -17,22 +17,22 @@
 - 💰 **Financial & Pension Economics (연계전공)**  
 
 ### 🎯 Interests
-- 🤖 *Machine Learning Performance Optimization*  
+- 🤖 **Machine Learning Performance Optimization**  
   : Feature Engineering, Data Preprocessing, Model Ensemble  
-- 📈 *Statistical Modeling*  
+- 📈 **Statistical Modeling**  
   : Bias–Variance Tradeoff, Robust Modeling  
-- 💰 *Finance & Pension Economics*   
+- 💰 **Finance & Pension Economics**   
   : 금융 데이터 기반 예측과 리스크 분석
 
 --------------------------------------
 
 ### 🎧 Hobbies 
-- 🍚 맛집 찾아다니기 & ☕ 예카 투어
-- 🎬 영화 보기
+- 🍚 **맛집 찾아다니기 & ☕ 예카 투어**
+- 🎬 **영화 보기**
     - 🎥 최근 본 영화
         - *아바타3*
         - *주토피아*
-- 🎧 좋아하는 노래 한 곡 반복재생
+- 🎧 **좋아하는 노래 한 곡 반복재생**
     - 🎵 요즘 듣는 노래  
         - *주토피아 – zoo*  
         - *DAY6 – Afraid*  
@@ -42,7 +42,7 @@
 - ⚙️ 데이터 엔지니어링 기초  
 - 🤖 딥러닝 & LLM 중심 학습
 - 🗄️ SQL/알고리즘 코딩 테스트 대비
-- 🏦 금융권 취업 준비
+- 🏦 **금융권 디지털, 데이터분석 직무 취업 준비**
 
 ### 💙 2026 목표
 - 📝 배운 것 기록하기 (블로그 운영)
